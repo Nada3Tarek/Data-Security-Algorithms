@@ -1,0 +1,2 @@
+C:\college\data_security\milestone1\datasec\SecurityPackageTest\obj\Release\SecurityPackageTest.csproj.AssemblyReference.cache
+C:\college\data_security\milestone1\datasec\SecurityPackageTest\obj\Release\SecurityPackageTest.csproj.CoreCompileInputs.cache

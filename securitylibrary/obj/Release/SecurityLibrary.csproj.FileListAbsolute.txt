@@ -1,0 +1,6 @@
+C:\college\data_security\milestone1\datasec\SecurityLibrary\bin\Release\SecurityLibrary.dll
+C:\college\data_security\milestone1\datasec\SecurityLibrary\bin\Release\SecurityLibrary.pdb
+C:\college\data_security\milestone1\datasec\SecurityLibrary\obj\Release\SecurityLibrary.csproj.AssemblyReference.cache
+C:\college\data_security\milestone1\datasec\SecurityLibrary\obj\Release\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\college\data_security\milestone1\datasec\SecurityLibrary\obj\Release\SecurityLibrary.dll
+C:\college\data_security\milestone1\datasec\SecurityLibrary\obj\Release\SecurityLibrary.pdb
